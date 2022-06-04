@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hiltDepandencyInjection</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Start blank fragment</string>
+    <string name="Second_blank_fragment">Second blank fragment</string>
+
+</resources>
